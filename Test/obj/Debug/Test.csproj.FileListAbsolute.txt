@@ -1,0 +1,25 @@
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\Test\bin\Debug\Test.exe
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\Test\bin\Debug\Test.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\Test\obj\Debug\Test.exe
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\Test\obj\Debug\Test.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\Test\bin\Debug\A04_REST_Webservice.dll
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\Test\bin\Debug\A04_REST_Webservice.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\A04_REST_Webservice\Test\obj\Debug\Test.exe
+C:\Users\brand\Documents\Service Oriented Architecture\A04_REST_Webservice\Test\obj\Debug\Test.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\A04_REST_Webservice\Test\bin\Debug\Test.exe
+C:\Users\brand\Documents\Service Oriented Architecture\A04_REST_Webservice\Test\bin\Debug\Test.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\A04_REST_Webservice\Test\bin\Debug\A04_REST_Webservice.dll
+C:\Users\brand\Documents\Service Oriented Architecture\A04_REST_Webservice\Test\bin\Debug\A04_REST_Webservice.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\A04_REST_Webservice\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\Test\bin\Debug\Test.exe
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\Test\bin\Debug\Test.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\Test\bin\Debug\A04_REST_Webservice.dll
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\Test\bin\Debug\A04_REST_Webservice.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\Test\obj\Debug\Test.exe
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\Test\obj\Debug\Test.pdb
+C:\Users\brand\Desktop\SOA_A04_Copy\Test\obj\Debug\Test.exe
+C:\Users\brand\Desktop\SOA_A04_Copy\Test\obj\Debug\Test.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04_Copy\Test\obj\Debug\Test.exe
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04_Copy\Test\obj\Debug\Test.pdb

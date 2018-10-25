@@ -1,0 +1,13 @@
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\A04_REST_Webservice\bin\A04_REST_Webservice.dll.config
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\A04_REST_Webservice\bin\A04_REST_Webservice.dll
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\A04_REST_Webservice\bin\A04_REST_Webservice.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\A04_REST_Webservice\obj\Release\A04_REST_Webservice.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\A04_REST_Webservice\obj\Release\A04_REST_Webservice.dll
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\A04_REST_Webservice\obj\Release\A04_REST_Webservice.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\bin\A04_REST_Webservice.dll.config
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\bin\A04_REST_Webservice.dll
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\bin\A04_REST_Webservice.pdb
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\obj\Release\A04_REST_Webservice.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\obj\Release\A04_REST_Webservice.dll
+C:\Users\brand\Documents\Service Oriented Architecture\SOA_A04\A04_REST_Webservice\obj\Release\A04_REST_Webservice.pdb
